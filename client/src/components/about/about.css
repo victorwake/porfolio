@@ -1,0 +1,12 @@
+/************* ABOUT *************/
+.about {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    color: #fffdf8;
+    background: rgb(255,255,255);
+    background: linear-gradient(45deg, #7bcfe0 0%, #4f929f 60%);
+}
+.about p {
+    margin-bottom: 80px;
+    text-align: center; 
+}

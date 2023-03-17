@@ -1,0 +1,56 @@
+/************* PORTFOLIO *************/
+
+.folio, .skills, .cv {
+    font-family: 'Raleway', sans-serif;
+    color: #222222;
+    background-color: #fffdf8;
+    text-align: center;
+    padding-bottom: 80px;
+    
+}
+
+.thumbnail img:hover {
+    transform: scale(1.1);
+    -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(50%);
+}
+.thumbnail img {
+    transition: all 0.3s ease 0s;
+    width: 100%;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    padding: 5px;
+    
+}
+.thumbnail {
+    overflow: hidden;
+    border: none;
+    box-shadow: 1px 1px 5px #222222; 
+    background-color: #eddbc3;
+}
+
+.frame {
+    background-color: #4f929f;
+    padding-top: 15px;
+    
+}
+.frame h3 {
+    background-color: #4f929f;
+    color: #eddbc3;
+    margin-top: -15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    text-align: center; 
+}
+.soon img:hover{
+    transform: none;
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: none;  
+}
+.soon img{
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: none;  
+}
+.soon h3{
+    color: transparent;
+}
