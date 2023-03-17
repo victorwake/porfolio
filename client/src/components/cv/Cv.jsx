@@ -103,7 +103,7 @@ export function Cv () {
                           </a> */}
                         </div>
                     </div>
-                    <a href="http://orig05.deviantart.net/9b2c/f/2016/336/6/b/2017_150_by_trin003-daqbfsm.pdf" target="_blank" class="btn btn-warning" role="button">CV download</a>
+                    <a href="" target="_blank" class="btn btn-warning" role="button">CV download</a>
                 </div>
             </div>
           </div>

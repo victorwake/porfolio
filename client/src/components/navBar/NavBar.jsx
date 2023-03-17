@@ -1,8 +1,14 @@
 import './navBar.css';
 import home from '../../image/home.png';
-// import logo2 from '../../image/logo2.png';
+import React, { useState } from 'react';
 
 export function NavBar () {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
+  
     return (
         <div className="navBar" id="home">
             <header class="image-bg1" data-parallax="scroll" data-image-src="http://img03.deviantart.net/5b62/i/2016/333/b/5/img_1242bis_by_trin003-daq0py8.jpg">
@@ -23,7 +29,7 @@ export function NavBar () {
               </a>
             </div>
               
-            <div class="collapse navbar-collapse pull-right" id="myNavbar">
+            <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
                   
                     <li class="hidden"><a class="page-scroll" href="#home"></a></li>
@@ -33,7 +39,7 @@ export function NavBar () {
                     <li><a class="page-scroll" href="#cv">Courses</a></li>
                     <li><a class="page-scroll" href="#contact">Contact</a></li>
                 </ul>
-                <div class="social-network pull-right">
+                <div class="social-network ">
                 <a href="https://www.linkedin.com/in/victor-pinto-fullstack/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                 <a href="https://www.facebook.com/Victorpintowake" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
                 <a href="https://www.instagram.com/victorwake/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
@@ -47,7 +53,7 @@ export function NavBar () {
 
         <div class="container back-titre">
                 <h1>Victor Pinto</h1>
-                <p class="sous-titre">Developer Front-End & Back-End</p>
+                <p class="sous-titre">Full Stack Developer</p>
         </div>
       </header>
         </div>
