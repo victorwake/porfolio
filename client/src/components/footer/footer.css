@@ -1,0 +1,9 @@
+.modal-body {
+    color: black;
+}
+
+.btn-secondary {
+    color: black;
+    background-color: rgba(216, 61, 61, 0.918);
+    box-shadow: -5px -5px 9px rgb(255, 255, 255), 5px 5px 9px rgba(7, 7, 7, 0.726);
+}
