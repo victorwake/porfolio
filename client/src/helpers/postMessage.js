@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export const postMessage = (payload) => {
     return axios
-        .post('http://localhost:3001/message', payload)
+        .post('https://porfolio-victor-pinto.onrender.com/message', payload)
         .then((res) => {
             if (res.status === 200) {console.log('Message sent!')
             } else {
