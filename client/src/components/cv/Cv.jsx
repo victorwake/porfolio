@@ -103,7 +103,11 @@ export function Cv () {
                           </a> */}
                         </div>
                     </div>
-                    <a href="" target="_blank" class="btn btn-warning" role="button">CV download</a>
+                    <a href="https://drive.google.com/file/d/1MMQT-dsB-DblfSPR2XW-feXieu8beQqO/view?usp=share_link" 
+                    target="_blank" 
+                    class="btn btn-warning" 
+                    role="button"
+                    >CV download</a>
                 </div>
             </div>
           </div>

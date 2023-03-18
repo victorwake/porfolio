@@ -1,4 +1,17 @@
-.skills{
-    background: rgb(245, 245, 245);
-    /* background: linear-gradient(45deg, #7bcfe0 0%, #4f929f 60%); */
+/************* COMPETENCES *************/
+
+#skills-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    align-items: center;
+    justify-content: center;
+
 }
+
+.skills h3 {
+    text-align: center; 
+    font-weight: bold;
+    font-size: 0.9em;
+    margin-top: -35px;
+    padding: 50px;
+} 
