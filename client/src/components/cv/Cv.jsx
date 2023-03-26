@@ -70,7 +70,7 @@ export function Cv () {
                           </div>
                         </div>
                     </div>
-                    <a href="https://drive.google.com/file/d/1MMQT-dsB-DblfSPR2XW-feXieu8beQqO/view?usp=share_link" 
+                    <a href="https://github.com/victorwake/porfolio/raw/main/client/src/image/CV-VictorPinto-2023.pdf" 
                     target="_blank" 
                     rel="noreferrer"
                     class="btn btn-warning" 
