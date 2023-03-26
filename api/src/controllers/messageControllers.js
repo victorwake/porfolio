@@ -46,7 +46,7 @@ const postMessage = async (req, res) => {
         });
         return res.status(200).json(newMessage);
     } catch (error) {
-        return res.status(400).json({ error: "Error al enviar el mensaje" });
+        return res.status(400).json({ msg: "Error al enviar el mensaje" });
     }
 };
 

@@ -7,3 +7,83 @@
     background-color: rgba(216, 61, 61, 0.918);
     box-shadow: -5px -5px 9px rgb(255, 255, 255), 5px 5px 9px rgba(7, 7, 7, 0.726);
 }
+
+/************* CONTACT *************/
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    color: #fffdf8;
+    text-align: center; 
+    background-color: transparent;
+    min-height: 500px;
+    /* background: url('../../image/footer-1.jpg') no-repeat center center scroll; */
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+    /* background-color: #4f929f; */
+    background: rgb(255,255,255);
+    background: linear-gradient(45deg, #7bcfe0 0%, #4f929f 60%);
+    
+}
+footer img {
+    border: 6px;
+    border-style: solid;
+    border-color: #4f929f;
+    border-radius: 100%;
+    /*opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+footer .conclusion {
+    padding: 0px 0px 40px 0px;
+}
+/* Forms---------------------------------- */
+.form-control {
+	height: 35px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+    background-color: rgba(255, 243, 248, 0.6);
+}
+.form-control-feedback {
+	color: #4f929f;
+}
+.has-feedback label.sr-only ~ .form-control-feedback {
+	top: 10px;
+}
+textarea {
+	resize: vertical;
+}
+form .btn {
+    min-width: 30%;
+    color: #4f929f;
+    background-color: #fffdf8;
+    margin-bottom: 50px;
+}
+form .btn:hover {
+    color: orange;
+}
+/* Fin forms---------------------------------- */
+p .fa-envelope {
+    padding-top: 30px;
+}
+.email {
+    font-size: 1.5em;
+}
+.social-network i {
+    background-color: #fffdf8;
+    border-radius: 100%;
+    color: #4f929f;
+    padding: 5px 6px 5px 6px;
+    margin: 13px 0px 0px 5px;
+}
+.social-network .fa-facebook {
+    padding: 5px 8px 5px 8px;
+}
+.social-network i:hover {
+    color: orange;
+}
+.cr {
+    font-size: 0.8em;
+}

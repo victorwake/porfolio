@@ -153,22 +153,28 @@ export function Footer() {
                     <a
                       href="https://www.linkedin.com/in/victor-pinto-fullstack/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       <i class="fa fa-linkedin-square" aria-hidden="true"></i>
                     </a>
                     <a
                       href="https://www.facebook.com/Victorpintowake"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       <i class="fa fa-facebook" aria-hidden="true"></i>
                     </a>
                     <a
                       href="https://www.instagram.com/victorwake/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
-                    <a href="https://github.com/victorwake" target="_blank">
+                    <a href="https://github.com/victorwake" 
+                    target="_blank"
+                    rel="noreferrer"
+                    >
                       <i class="fa fa-github" aria-hidden="true"></i>
                     </a>
                   </p>

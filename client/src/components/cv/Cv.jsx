@@ -9,16 +9,7 @@ export function Cv () {
                     <h2>My courses</h2>
                     <img src="http://orig11.deviantart.net/bb6f/f/2016/335/5/0/jobs_icon_by_trin003-daq8q1f.png" alt="Icon expérience professionnelle"></img>
                     <div class="row"> 
-                       <div id="myCarousel" class="carousel slide" data-interval="false">
-                          
-                          {/* <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                            <li data-target="#myCarousel" data-slide-to="3"></li>
-                          </ol> */}
-
-                          
+                       <div id="myCarousel" class="carousel slide" data-interval="false">                  
                           <div class="carousel-inner" role="listbox">
                             <div class="item active">
                               <div class="col-md-4 col-sm-push-1">
@@ -63,15 +54,6 @@ export function Cv () {
                     <img src="http://orig02.deviantart.net/3a25/f/2016/335/a/4/school_icon_by_trin003-daq8p9q.png" alt="Icon expérience professionnelle"></img>
                     <div class="row">
                        <div id="myCarousel2" class="carousel slide" data-interval="false">
-                 
-                          {/* <ol class="carousel-indicators">
-                            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel2" data-slide-to="1"></li>
-                            <li data-target="#myCarousel2" data-slide-to="2"></li>
-                            <li data-target="#myCarousel2" data-slide-to="3"></li>
-                          </ol>  */}
-
-                     
                           <div class="carousel-inner" role="listbox">
                             <div class="item active">
                               <div class="col-md-4 col-sm-push-1">
@@ -84,27 +66,13 @@ export function Cv () {
                                     <span class="date">feb. 2022 - (Cursando)</span><br/>
                                     Tecnicatura en programación</p>
                               </div>
-                              {/* <div class="col-md-4 col-sm-pull-1">
-                                  <p>titulo<br/>
-                        <span class="date">fecha</span><br/>
-                                    dato</p>
-                              </div> */}
                             </div>
                           </div>
-
-
-                          {/* <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
-                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                          </a>
-                          <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
-                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                          </a> */}
                         </div>
                     </div>
                     <a href="https://drive.google.com/file/d/1MMQT-dsB-DblfSPR2XW-feXieu8beQqO/view?usp=share_link" 
                     target="_blank" 
+                    rel="noreferrer"
                     class="btn btn-warning" 
                     role="button"
                     >CV download</a>

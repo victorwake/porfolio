@@ -15,7 +15,7 @@ export function Porfolio() {
 
                             <div class="row">
                             <div class="col-md-4 frame">
-                                <a href="https://pi-videogames-pza6s3qw0-victorwake.vercel.app/" target="_blank" class="thumbnail">
+                                <a href="https://pi-videogames-pza6s3qw0-victorwake.vercel.app/" target="_blank" rel="noreferrer" class="thumbnail">
                                     <img
                                         src={game}
                                         alt="Projet Anima"
@@ -25,7 +25,7 @@ export function Porfolio() {
                             </div>
 
                                 <div class="col-md-4 frame">
-                                    <a href="https://pg-wine.vercel.app/" target="_blank" class="thumbnail">
+                                    <a href="https://pg-wine.vercel.app/" target="_blank" rel="noreferrer" class="thumbnail">
                                         <img
                                             src={wines}
                                             alt="Projet Tribute Page"
@@ -36,7 +36,7 @@ export function Porfolio() {
                                 </div>
 
                             <div class="col-md-4 frame">
-                                <a href="https://victorpinto-todo.netlify.app/" target="_blank" class="thumbnail">
+                                <a href="https://victorpinto-todo.netlify.app/" target="_blank" rel="noreferrer" class="thumbnail">
                                     <img src={todo} alt="Coming soon"
                                     >
                                     </img>

@@ -26,7 +26,7 @@ export function NavBar () {
             <div class="collapse navbar-collapse pull-right" id="myNavbar">
                 <ul class="nav navbar-nav">
                   
-                    <li class="hidden"><a class="page-scroll" href="#home"></a></li>
+                    <li class="hidden"><a class="page-scroll" href="#home"><span class="sr-only">Home</span></a></li>
                     <li><a class="page-scroll" href="#about">About</a></li>
                     <li><a class="page-scroll" href="#folio">Portfolio</a></li>
                     <li><a class="page-scroll" href="#skills">Skills</a></li>
@@ -34,10 +34,10 @@ export function NavBar () {
                     <li><a class="page-scroll" href="#contact">Contact</a></li>
                 </ul>
                 <div class="social-network pull-right">
-                <a href="https://www.linkedin.com/in/victor-pinto-fullstack/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                <a href="https://www.facebook.com/Victorpintowake" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-                <a href="https://www.instagram.com/victorwake/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
-                <a href="https://github.com/victorwake" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> 
+                <a href="https://www.linkedin.com/in/victor-pinto-fullstack/" target="_blank" rel="noreferrer"><i class="fa fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span></a>
+                <a href="https://www.facebook.com/Victorpintowake" target="_blank" rel="noreferrer"><i class="fa fa-facebook" aria-hidden="true"></i><span class="sr-only">Facebook</span></a> 
+                <a href="https://www.instagram.com/victorwake/" target="_blank" rel="noreferrer"><i class="fa fa-instagram" aria-hidden="true"></i><span class="sr-only">Instagram</span></a> 
+                <a href="https://github.com/victorwake" target="_blank" rel="noreferrer"><i class="fa fa-github" aria-hidden="true"></i><span class="sr-only">GitHub</span></a> 
               </div>
             </div>
 
