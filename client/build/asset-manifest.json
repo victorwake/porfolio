@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef1ba339.chunk.css",
+    "main.js": "/static/js/main.81d11e20.chunk.js",
+    "main.js.map": "/static/js/main.81d11e20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc8540ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc8540ea.js.map",
+    "static/js/2.b58e398a.chunk.js": "/static/js/2.b58e398a.chunk.js",
+    "static/js/2.b58e398a.chunk.js.map": "/static/js/2.b58e398a.chunk.js.map",
+    "static/js/3.876af64c.chunk.js": "/static/js/3.876af64c.chunk.js",
+    "static/js/3.876af64c.chunk.js.map": "/static/js/3.876af64c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ef1ba339.chunk.css.map": "/static/css/main.ef1ba339.chunk.css.map",
+    "static/js/2.b58e398a.chunk.js.LICENSE.txt": "/static/js/2.b58e398a.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.27528e1b.png": "/static/media/bootstrap.27528e1b.png",
+    "static/media/navBar.css": "/static/media/codigo-programacion-portatil-fondo.426e138e.jpg",
+    "static/media/css.777cb405.png": "/static/media/css.777cb405.png",
+    "static/media/game.220d0700.png": "/static/media/game.220d0700.png",
+    "static/media/home.1082c60f.png": "/static/media/home.1082c60f.png",
+    "static/media/html5.944e9228.png": "/static/media/html5.944e9228.png",
+    "static/media/java.dd955319.png": "/static/media/java.dd955319.png",
+    "static/media/js.58e3db97.png": "/static/media/js.58e3db97.png",
+    "static/media/map.d53891f9.png": "/static/media/map.d53891f9.png",
+    "static/media/mysql.68a01c22.png": "/static/media/mysql.68a01c22.png",
+    "static/media/node.e18ff179.png": "/static/media/node.e18ff179.png",
+    "static/media/postgres.e3a38523.png": "/static/media/postgres.e3a38523.png",
+    "static/media/react.1fd1daae.png": "/static/media/react.1fd1daae.png",
+    "static/media/redux.4007f4e5.png": "/static/media/redux.4007f4e5.png",
+    "static/media/sequelize.441caab7.png": "/static/media/sequelize.441caab7.png",
+    "static/media/springboot.831548b6.png": "/static/media/springboot.831548b6.png",
+    "static/media/todo.70228401.gif": "/static/media/todo.70228401.gif",
+    "static/media/wines.2618f277.png": "/static/media/wines.2618f277.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc8540ea.js",
+    "static/js/2.b58e398a.chunk.js",
+    "static/css/main.ef1ba339.chunk.css",
+    "static/js/main.81d11e20.chunk.js"
+  ]
+}
